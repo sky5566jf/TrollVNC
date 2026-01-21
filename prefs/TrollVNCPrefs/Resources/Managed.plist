@@ -9,7 +9,7 @@
   <key>Port</key>
   <integer>5901</integer>
   <key>Scale</key>
-  <real>0.75</real>
+  <real>0.50</real>
   <key>FrameRateSpec</key>
   <string>30:60:120</string>
   <key>DeferWindowSec</key>
@@ -24,19 +24,8 @@
   <integer>512</integer>
   <key>HttpPort</key>
   <integer>5801</integer>
-  <key>HttpDir</key>
-  <string>/usr/share/trollvnc/webclients</string>
-  <key>SslCertFile</key>
-  <string>/usr/share/trollvnc/ssl/host/cert.pem</string>
-  <key>SslKeyFile</key>
-  <string>/usr/share/trollvnc/ssl/host/key.pem</string>
-  <key>ClipboardEnabled</key>
   <true/>
   <key>ViewOnly</key>
   <false/>
-  <key>FullPassword</key>
-  <string>editpass</string>
-  <key>ViewOnlyPassword</key>
-  <string>viewpass</string>
 </dict>
 </plist>
