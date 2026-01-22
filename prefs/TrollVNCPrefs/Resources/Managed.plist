@@ -21,24 +21,22 @@
   <key>KeepAliveSec</key>
   <real>300</real>
   <key>Scale</key>
-  <real>0.45</real>
+  <real>0.6</real>
   <key>FrameRateSpec</key>
   <string>30-60</string>
   <key>OrientationSync</key>
   <true/>
   <key>DeferWindowSec</key>
-  <real>0.000</real>
+  <real>0.010</real>
   <key>MaxInflight</key>
-  <integer>0</integer>
-  <key>TileSize</key>
-  <integer>128</integer>
-  <key>MaxRects</key>
   <integer>1</integer>
+  <key>TileSize</key>
+  <integer>64</integer>
+  <key>MaxRects</key>
+  <integer>128</integer>
   <key>FullscreenThresholdPercent</key>
   <integer>0</integer>
   <key>HttpPort</key>
   <integer>5801</integer>
-  <key>ClipboardEnabled</key>
-  <true/>
 </dict>
 </plist>
