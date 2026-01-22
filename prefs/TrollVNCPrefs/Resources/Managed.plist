@@ -23,7 +23,7 @@
   <key>Scale</key>
   <real>0.45</real>
   <key>FrameRateSpec</key>
-  <string>30:60:120</string>
+  <string>30-60</string>
   <key>OrientationSync</key>
   <true/>
   <key>DeferWindowSec</key>
@@ -37,7 +37,7 @@
   <key>FullscreenThresholdPercent</key>
   <integer>0</integer>
   <key>HttpPort</key>
-  <integer>5902</integer>
+  <integer>5801</integer>
   <key>ClipboardEnabled</key>
   <true/>
 </dict>
