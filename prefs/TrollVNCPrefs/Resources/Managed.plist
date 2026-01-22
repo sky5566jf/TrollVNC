@@ -5,11 +5,11 @@
   <key>Enabled</key>
   <true/>
   <key>DesktopName</key>
-  <string>Matisu</string>
+  <string>TrollVNC</string>
   <key>Port</key>
   <integer>5901</integer>
   <key>Scale</key>
-  <real>0.50</real>
+  <real>0.45</real>
   <key>FrameRateSpec</key>
   <string>30:60:120</string>
   <key>DeferWindowSec</key>
@@ -24,6 +24,7 @@
   <integer>512</integer>
   <key>HttpPort</key>
   <integer>5801</integer>
+  <key>ClipboardEnabled</key>
   <true/>
   <key>ViewOnly</key>
   <false/>
