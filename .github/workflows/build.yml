@@ -14,7 +14,7 @@ on:
         type: string
         description: Desktop name shown to clients
         required: false
-        default: TrollVNC
+        default: Matisu
       port:
         type: string
         description: VNC TCP port (1024–65535; default 5901)
